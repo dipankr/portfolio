@@ -9,7 +9,7 @@
 ## Experience
 
 ### SAP
-_**Software Development Engineer (Full Stack)** Nov 2021 - Present_
+_**Software Development Engineer (Full Stack)** `Nov 2021 - Present`_
 
 - Designed and developed new UI and UX for Worker Centric, highly appreciated and loved by customers
 - Helped improve customer experience and retention scores by 50% and 30% respectively
@@ -19,7 +19,7 @@ _**Software Development Engineer (Full Stack)** Nov 2021 - Present_
 
 
 ### Nextgen Healthcare
-_**Software Development Engineer (Full Stack)** Feb 2019 - Dec 2020_
+_**Software Development Engineer (Full Stack)** `Feb 2019 - Dec 2020`_
 
 - Worked as a full stack developer with expertise in Java, SQL and AWS
 - Developed feature to allow 80% of practices to go through internal clearinghouse reducing claim settlement time significantly
@@ -27,7 +27,7 @@ _**Software Development Engineer (Full Stack)** Feb 2019 - Dec 2020_
 
 
 ### CGI
-_**Software Development Engineer (Backend)** Aug 2016 - Feb 2019_
+_**Software Development Engineer (Backend)** `Aug 2016 - Feb 2019`_
 
 - Upgraded the system to a newer build, increasing system efficiency by 20%.
 - Implemented one of the biggest enhancements to the system, leading to a 30% increase in user experience.
@@ -42,13 +42,13 @@ _**Software Development Engineer (Backend)** Aug 2016 - Feb 2019_
 
 ## Education
 
-**Scaler** _2023_
+**Scaler** _`2023`_
 
 _**Specialized in Software Development & Problem-Solving**_
 - Full-stack development with in-depth knowledge on DSA, LLD, HLD and Project with hands-on coding and
 execution.
 
 
-**VMU** _2015_
+**VMU** _`2015`_
 
 _**BE/B.Tech/BS in Computer Science**_
