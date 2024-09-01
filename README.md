@@ -17,12 +17,14 @@ _**Software Development Engineer (Full Stack)** Nov 2021 - Present_
 - Ensuring end-to-end application functionality, contributing mostly to backend development
 - Strong problem-solving skills and a customer-focused approach
 
+
 ### Nextgen Healthcare
 _**Software Development Engineer (Full Stack)** Feb 2019 - Dec 2020_
 
 - Worked as a full stack developer with expertise in Java, SQL and AWS
 - Developed feature to allow 80% of practices to go through internal clearinghouse reducing claim settlement time significantly
 - Our team helped boost a profit of $1.2M in the first year, with year-on-year grown thereafter
+
 
 ### CGI
 _**Software Development Engineer (Backend)** Aug 2016 - Feb 2019_
@@ -40,10 +42,13 @@ _**Software Development Engineer (Backend)** Aug 2016 - Feb 2019_
 
 ## Education
 
-### Scaler 2023
+**Scaler** _2023_
+
 _**Specialized in Software Development & Problem-Solving**_
 - Full-stack development with in-depth knowledge on DSA, LLD, HLD and Project with hands-on coding and
 execution.
 
-### VMU 2015
+
+**VMU** _2015_
+
 _**BE/B.Tech/BS in Computer Science**_
