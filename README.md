@@ -3,8 +3,8 @@
 ## Skills
 
 Programming Languages : | Java, SQL, JavaScript
-Libraries & Frameworks : | Spring Boot, JUnit
-Services & Softwares : | AWS, Cloud Computing, IntelliJ
+Libraries and Frameworks : | Spring Boot, JUnit
+Services and Softwares : | AWS, Cloud Computing, IntelliJ
 
 ## Experience
 
