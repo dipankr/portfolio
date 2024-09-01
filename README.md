@@ -2,9 +2,9 @@
 
 ## Skills
 
-**Programming Languages** | _Java, SQL, JavaScript_
-**Libraries and Frameworks** | _Spring Boot, JUnit_
-**Services and Softwares** | _AWS, Cloud Computing, IntelliJ_
+**Programming Languages** | _`Java, SQL, JavaScript`_
+**Libraries and Frameworks** | _`Spring Boot, JUnit`_
+**Services and Softwares** | _`AWS, Cloud Computing, IntelliJ`_
 
 ## Experience
 
