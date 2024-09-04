@@ -2,7 +2,7 @@
 
 ## About Me
 
-_I am Dipanker Kumar, a seasoned software developer with 8 years of experience specializing in Java. My journey in software development has been shaped by my roles at leading technology companies, including CGI, NEXTGEN R&D and SAP Labs. I have honed my skills through diverse projects, notably contributing to platforms such as GitHub._
+_I am Dipanker Kumar, a seasoned software developer with 8 years of experience specializing in making bug-free, tested, clean, maintainable and scalable software systems. My journey in software development has been shaped by my roles at leading technology companies, including CGI, NEXTGEN R&D and SAP Labs. I have honed my skills through diverse projects, notably contributing to platforms such as GitHub._
 
 _My expertise extends beyond Java development to include a deep understanding of system architecture, scalable solutions, and software optimization. I am adept at problem-solving and thrive in collaborative environments where innovative solutions are key. My experience spans full software development lifecycles, from design and implementation to testing and deployment._
 
