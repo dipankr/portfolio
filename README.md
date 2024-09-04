@@ -1,6 +1,6 @@
-# Software Development Engineer
+# Software Development Engineer (Full-Stack) 
 
-## Hello, 
+## Hello 👋 
 
 _I am a seasoned software developer with 8 years of experience specializing in making bug-free, tested, clean, maintainable and scalable software systems. My journey in software development has been shaped by my roles at leading technology companies, including CGI, NEXTGEN R&D and SAP Labs. I have honed my skills through diverse projects, notably contributing to platforms such as GitHub._
 
