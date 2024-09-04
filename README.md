@@ -8,7 +8,7 @@
 
 ## Experience
 
-### SAP
+### SAP Labs
 _**Software Development Engineer (Full Stack)** Nov 2021 - Present_
 
 - Designed and developed new UI and UX for Worker Centric, highly appreciated and loved by customers
@@ -18,7 +18,7 @@ _**Software Development Engineer (Full Stack)** Nov 2021 - Present_
 - Strong problem-solving skills and a customer-focused approach
 
 
-### Nextgen Healthcare
+### Nextgen Healthcare R&D
 _**Software Development Engineer (Full Stack)** Feb 2019 - Dec 2020_
 
 - Worked as a full stack developer with expertise in Java, SQL and AWS
