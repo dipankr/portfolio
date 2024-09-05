@@ -3,9 +3,9 @@
 ## Hello 👋 
 
 > _My journey in software development has been shaped by my roles at leading technology companies, including CGI, NEXTGEN R&D and SAP Labs. I have honed my skills through diverse projects, notably contributing to platforms such as GitHub._
-
+>
 > _My expertise extends beyond Java development to include a deep understanding of system architecture, scalable solutions, and software optimization. I am adept at problem-solving and thrive in collaborative environments where innovative solutions are key. My experience spans full software development lifecycles, from design and implementation to testing and deployment._
-
+>
 > _I am passionate about continuous learning and staying current with emerging technologies, which allows me to tackle complex challenges and drive impactful results. My strong analytical skills, attention to detail, and commitment to excellence ensure that I consistently deliver high-quality software solutions. Whether working independently or as part of a team, I am dedicated to achieving project goals and contributing to the success of every initiative._
 
 ## Skills
