@@ -49,7 +49,7 @@ _**Software Development Engineer (Backend)** Aug 2016 - Feb 2019_
   * Coordinated with the QA team to identify and fix critical bugs, reducing issue resolution time by 30%.
 * **Received consistent positive feedback from clients** for delivering high-quality solutions that meet their business needs:
   * Achieved an average client satisfaction rating of 4.8/5 for timely and effective solutions.
-  * Secured repeat business from 80% of clients due to high-quality deliverables.
+  * Secured repeat business from 90% of clients due to high-quality deliverables.
   * Received commendations from clients for innovative problem-solving approaches that saved them 20% in operational costs.
 * **Developed modular, maintainable, and efficient code**, adhering to best practices and design patterns:
   * Implemented a new coding standard that improved codebase efficiency by 30%.
@@ -58,7 +58,7 @@ _**Software Development Engineer (Backend)** Aug 2016 - Feb 2019_
 * **Successfully delivered bug-free features and enhancements**, minimizing post-release issues:
   * Delivered major feature updates with zero critical bugs, resulting in a 25% decrease in customer support tickets.
   * Implemented automated testing procedures that reduced post-release issues by 40%.
-  * Led a team to deliver a high-profile project ahead of schedule, with no post-release defects reported.
+  * Led a team to deliver multiple high-stake project ahead of schedule, with no post-release defects.
 
 ## Education
 
