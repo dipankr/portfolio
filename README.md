@@ -64,11 +64,11 @@
 
 **Scaler** _2023_
 
-> _**Specialized in Software Development & Problem-Solving**_
+> _**Specialization in Software Development & Problem-Solving**_
 - Full-stack development with in-depth knowledge on DSA, LLD, HLD and Project with hands-on coding and
 execution.
 
 
 **VMU** _2015_
 
-> _**BE/B.Tech/BS in Computer Science**_
+> _**BE in Computer Science**_
