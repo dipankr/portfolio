@@ -71,4 +71,4 @@ execution.
 
 **VMU** _2015_
 
-> _**BE in Computer Science**_
+> _**B.E. in Computer Science**_
