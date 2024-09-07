@@ -69,8 +69,7 @@
 
 <details>
 <summary><b>Education</b></summary>
-
-```markdown
+<p>
 **Scaler** _2023_
 
 > _**Specialization in Software Development & Problem-Solving**_
@@ -82,5 +81,5 @@ execution.
 
 > _**B.E. in Computer Science**_
 
-```
+</p>
 </details>
