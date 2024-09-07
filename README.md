@@ -1,5 +1,7 @@
 # Software Development Engineer (Full Stack) 
 
+<img align="center" width="100%" src="assets/media/messagif.gif"  alt="hello"/> 
+
 > ## Hello 👋 
 >
 > _My journey in software development has been shaped by my roles at leading technology companies, including CGI, NEXTGEN R&D and SAP Labs. I have honed my skills through diverse projects, notably contributing to platforms such as GitHub._
