@@ -67,8 +67,10 @@
   * Implemented automated testing procedures that reduced post-release issues by 40%.
   * Led a team to deliver multiple high-stake project ahead of schedule, with no post-release defects.
 
-## Education
+<details>
+<summary><b>Education</b></summary>
 
+```markdown
 **Scaler** _2023_
 
 > _**Specialization in Software Development & Problem-Solving**_
@@ -79,3 +81,6 @@ execution.
 **VMU** _2015_
 
 > _**B.E. in Computer Science**_
+
+```
+</details>
