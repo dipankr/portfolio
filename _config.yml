@@ -2,10 +2,7 @@ title: Dipanker Kumar
 logo: /assets/img/dp.png
 description: "I am a seasoned software developer with 8 years of experience specializing in making bug-free, tested, clean, maintainable and scalable software systems."
 #show_downloads: true
-#theme: jekyll-theme-minimal
-remote_theme: "godalming123/minimal"
-plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-minimal
 #remote_theme: pages-themes/time-machine@v0.2.0
 #plugins:
 #  - jekyll-remote-theme # add this line to the plugins list if you already have one
