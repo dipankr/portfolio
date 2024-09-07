@@ -10,15 +10,15 @@
 >
 > _I am passionate about continuous learning and staying current with emerging technologies, which allows me to tackle complex challenges and drive impactful results. My strong analytical skills, attention to detail, and commitment to excellence ensure that I consistently deliver high-quality software solutions. Whether working independently or as part of a team, I am dedicated to achieving project goals and contributing to the success of every initiative._
 
+## GitHub
+
+![Contributions](https://github-contributor-stats.vercel.app/api?username=dipankr&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+
 ## Skills
 
 **Programming Languages** | _`Java, SQL, JavaScript`_
 **Libraries and Frameworks** | _`Spring Boot, JUnit`_
 **Services and Softwares** | _`AWS, Cloud Computing, IntelliJ`_
-
-## GitHub
-
-![Contributions](https://github-contributor-stats.vercel.app/api?username=dipankr&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 ## Experience
 
