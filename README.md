@@ -18,9 +18,6 @@
 
 ## GitHub
 
-
-<img width="85%" src="https://github-contributor-stats.vercel.app/api?username=dipankr&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="contributions"/> 
-<br/>
 <img width=50% src="https://github-readme-stats.vercel.app/api?username=dipankr&show_icons=true&theme=dark&hide_border=true&locale=en&count_private=true&rank_icon=github" alt="stats" />
 <img width=38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt=" languages"/>
 <br/>
