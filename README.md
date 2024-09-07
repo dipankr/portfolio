@@ -18,8 +18,7 @@
 
 ## GitHub
 
-![Contributions](https://github-contributor-stats.vercel.app/api?username=dipankr&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true) 
-
+![Contributions](https://github-contributor-stats.vercel.app/api?username=dipankr&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 ## Experience
 
@@ -67,9 +66,8 @@
   * Implemented automated testing procedures that reduced post-release issues by 40%.
   * Led a team to deliver multiple high-stake project ahead of schedule, with no post-release defects.
 
-<details>
-<summary><b>Education</b></summary>
-<p>
+## Education
+
 **Scaler** _2023_
 
 > _**Specialization in Software Development & Problem-Solving**_
@@ -80,6 +78,3 @@ execution.
 **VMU** _2015_
 
 > _**B.E. in Computer Science**_
-
-</p>
-</details>
