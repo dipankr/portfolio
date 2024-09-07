@@ -17,21 +17,9 @@
 **Services and Softwares** | _`AWS, Cloud Computing, IntelliJ`_
 
 ## GitHub
-<details>
-<summary>Open</summary>
-<p align="center" style="align-content: space-around">
 
 ![Contributions](https://github-contributor-stats.vercel.app/api?username=dipankr&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true) 
-<br/>
-![stats](https://github-readme-stats.vercel.app/api?username=dipankr&show_icons=true&theme=dark&hide_border=true&locale=en&count_private=true&rank_icon=github)
 
-![t](https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en)
-<br/>
-![t](https://github-readme-streak-stats.herokuapp.com?user=dipankr&theme=dark&hide_border=true&locale=en)
-![t](https://github-profile-trophy.vercel.app/?username=dipankr&theme=discord&row=2&column=4)
-
-</p>
-</details>
 
 ## Experience
 
