@@ -23,7 +23,7 @@
 ## Experience
 
 ### SAP Labs
-> _**Software Development Engineer (Full Stack)** Nov 2021 - Present_
+> _**Software Development Engineer (Full Stack)** Jan 2021 - Present_
 - Designed and developed new UI and UX for Worker Centric, highly appreciated and loved by customers
 - Helped improve customer experience and retention scores by 50% and 30% respectively
 - Direct appreciation by multiple clients for identifying and targeting user pain points
